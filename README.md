@@ -13,6 +13,8 @@
 ## TechAI Mentee Tasks
 <ol>
     <li>
-        #1 Command-Line Wordle Game in Python 
+        #1 Command-Line Wordle Game in Python where you need to guess the secret word in 5 chances.
+        #2 Performing Exploratory Data Analysis on a Meteorite Dataset.
+        #3 Trained Linear and Logistic Regression Models on a Dataset related to Heart Disease.
     </li> 
 </ol>
